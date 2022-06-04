@@ -262,7 +262,7 @@ section {
 }
 
 header .logo {
-  color: black;
+  color: rgb(73, 7, 7);
   font-weight: 700;
   text-decoration: none;
   font-size: 2rem;
